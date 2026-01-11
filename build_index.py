@@ -25,4 +25,4 @@ with open("doc_ids.pkl", "wb") as f:
     pickle.dump(doc_ids, f)
 
 print("FAISS index built successfully!")
-s
+
