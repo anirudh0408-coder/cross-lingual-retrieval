@@ -27,4 +27,4 @@ for i in range(k):
     print(f"Text: {spanish_docs[doc_id]}")
     print(f"Similarity Score: {distances[0][i]}")
     print("-----------------------")
-s
+
